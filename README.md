@@ -13,7 +13,7 @@ Currently, to most AI models, this audiovisual media is **vapid**, because they 
 
 ## Annotation
 Annotations must always be adjectives.
-1. gender `gen` (`male`, `female`, `ambiguous`)
+1. gender `gen` (`male`, `female`, `mixed`, `ambiguous`)
 2. age `age` (`young`, `middle-aged`, `elder`, etc.)
 3. accent `acc` (`African`, `American`, `Celtic`, `European`, `Oceanic`, `South-Asian`, `South-East-Asian`, etc.)
 4. emotion `emo` (`happy`, `saddened`, `angry`, `neutral`, `frustrated`, etc.)
